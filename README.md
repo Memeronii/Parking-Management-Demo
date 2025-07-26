@@ -233,5 +233,3 @@ This project is developed as a consultant tech demo for Liverpool Council. All r
 - **OpenCV**: Computer vision library
 - **Flask**: Web framework
 - **Material Design**: UI/UX design system
-
----
